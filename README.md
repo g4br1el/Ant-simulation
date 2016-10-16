@@ -1,8 +1,7 @@
 # Ant simulation
 *Simulates an place with ants. The ants are searching for food and have some adventures like a kid who likes to kill ants.*
 
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg)]()
 
 ## Usage example
 1. Start the program and set the parameters in the console.
